@@ -1,0 +1,3 @@
+[submodule "Code/micro_ros_stm32cubemx_utils"]
+	path = Code/micro_ros_stm32cubemx_utils
+	url = git@github.com:micro-ROS/micro_ros_stm32cubemx_utils.git
