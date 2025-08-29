@@ -1,0 +1,3 @@
+../Core/Src/ping_pong.c:19:13:pong_callback	1
+../Core/Src/ping_pong.c:26:6:ping_pong_init	3
+../Core/Src/ping_pong.c:68:6:ping_pong_publish_ping	2

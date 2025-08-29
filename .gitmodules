@@ -1,3 +1,11 @@
 [submodule "Code/micro_ros_stm32cubemx_utils"]
 	path = Code/micro_ros_stm32cubemx_utils
 	url = git@github.com:micro-ROS/micro_ros_stm32cubemx_utils.git
+[submodule "Code/MicroROS_setup"]
+	path = Code/MicroROS_setup
+	url = git@github.com:micro-ROS/micro_ros_setup.git
+	branch = jazzy
+[submodule "Code/MicroROS_STM32/Middlewares/micro_ros_stm32cubemx_utils"]
+	path = Code/MicroROS_STM32/Middlewares/micro_ros_stm32cubemx_utils
+	url = git@github.com:micro-ROS/micro_ros_stm32cubemx_utils.git
+	branch = jazzy
